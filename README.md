@@ -1,12 +1,11 @@
 # AI Risk Register for an Automated Hiring System
 
 **Portfolio Project 1 | AI Governance**
-
 **Author:** Mohammed Hashir
 
-*Prepared with AI assistance (Claude, by Anthropic). Sources and scores are meant to be challenged.*
+A risk register for a hypothetical AI system that screens job applicants. It lists what could go wrong, how bad it would be, what safeguards reduce the risk, and who is responsible for each one.
 
-See also: [Policy memo on measuring AI power concentration](memo_ai_power_concentration.md)
+---
 
 ## 1. System Introduction
 
